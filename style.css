@@ -322,7 +322,7 @@ opacity: 0px;
     }
     
     .main-con1-img2 > img {
-        width: 152px;
+        width: 197px;
     height: 120px;
     
     gap: 0px;
@@ -357,7 +357,7 @@ opacity: 0px;
 }
 
 .container-1 > img {
-    width: 197px;
+    width: 211px;
 height: 99px;
 
 gap: 0px;
@@ -367,7 +367,7 @@ opacity: 0px;
 }
 
 .images > img {
-    width: 95px;
+    width: 100px;
 height: 99px;
 
 gap: 0px;
@@ -377,7 +377,7 @@ opacity: 0px;
 }
 
 .main-con3 > img {
-    width: 60px;
+    width: 92.5px;
     height: 209px;
    
     gap: 0px;
@@ -396,7 +396,7 @@ opacity: 0px;
     justify-content: flex-start;
     align-items: flex-start;
     margin-bottom: 20px;
-    padding-left: 30px;
+    padding-left: 40px;
 }
 
 .footer > p {
