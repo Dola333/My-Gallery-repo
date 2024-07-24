@@ -299,6 +299,10 @@ opacity: 0px;
     
 /* first two flex images */
 
+.main{
+    margin-top: -20px;
+}
+
     .main-con1 {
         display: flex;
         justify-content: flex-start;
@@ -322,7 +326,7 @@ opacity: 0px;
     }
     
     .main-con1-img2 > img {
-        width: 197px;
+        width: 192px;
     height: 120px;
     
     gap: 0px;
@@ -410,53 +414,25 @@ opacity: 0px;
     color:#B9BDCF;
 }
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
